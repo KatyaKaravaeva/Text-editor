@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FCTB/2.16.21": {
+        "runtime": {
+          "lib/FastColoredTextBox.dll": {
+            "assemblyVersion": "2.16.21.0",
+            "fileVersion": "2.16.21.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FCTB/2.16.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hOm6DP5msnTi5j9t8iYqfVRPHhjdxtM5S2Kx+WAX/VX/A+jo8Z+HzltrZjLmXQaJQVPAwEhNm6+2aW+fsdqzZQ==",
+      "path": "fctb/2.16.21",
+      "hashPath": "fctb.2.16.21.nupkg.sha512"
+    }
+  }
+}

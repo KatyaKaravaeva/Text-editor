@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lu4eGodWGaJexuawmIkKIe0TYJEzhkFZ6tNvquerNyT6gay9YFOKaE30JSwwtJyD8LZN/5cE0/jUdlr/bNUBYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kikin\\Downloads\\PeerGradeNotepadFinal11\\PeerGradeNotepad\\PeerGradeNotepad\\PeerGradeNotepad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kikin\\.nuget\\packages\\fctb\\2.16.21\\fctb.2.16.21.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"FCTB 2.16.21\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "FCTB",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
